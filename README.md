@@ -38,7 +38,9 @@ $ pnpm install
 $ pnpm run start
 
 # watch mode
-$ pnpm run start:dev
+$ pnpm run start:dev user
+$ pnpm run start:dev exam
+$ pnpm run start:dev answer
 
 # production mode
 $ pnpm run start:prod
